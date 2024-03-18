@@ -1,0 +1,43 @@
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.deps.json
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.runtimeconfig.json
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.dll
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.pdb
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.csproj.AssemblyReference.cache
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.AssemblyInfoInputs.cache
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.AssemblyInfo.cs
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.csproj.CoreCompileInputs.cache
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.dll
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\refint\E-Commerce.Domain.dll
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.pdb
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.genruntimeconfig.cache
+D:\Iti\C#\Visual C#\The Project\E-CommerceDesktopApp-main\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\ref\E-Commerce.Domain.dll
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.deps.json
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.runtimeconfig.json
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.dll
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.pdb
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.sourcelink.json
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.dll
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\refint\E-Commerce.Domain.dll
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.pdb
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.genruntimeconfig.cache
+C:\Users\Mohamed\Desktop\Visual Project\E-CommerceDesktopApp\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\ref\E-Commerce.Domain.dll
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.deps.json
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.runtimeconfig.json
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.dll
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.pdb
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.csproj.AssemblyReference.cache
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.AssemblyInfoInputs.cache
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.AssemblyInfo.cs
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.csproj.CoreCompileInputs.cache
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.dll
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\refint\E-Commerce.Domain.dll
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.pdb
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.genruntimeconfig.cache
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Domain\obj\Debug\net7.0\ref\E-Commerce.Domain.dll

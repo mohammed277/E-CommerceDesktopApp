@@ -1,0 +1,17 @@
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\bin\Debug\net7.0\E-Commerce.Application.deps.json
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\bin\Debug\net7.0\E-Commerce.Application.dll
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\bin\Debug\net7.0\E-Commerce.Application.pdb
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.AssemblyInfoInputs.cache
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.AssemblyInfo.cs
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.csproj.CoreCompileInputs.cache
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.dll
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\obj\Debug\net7.0\refint\E-Commerce.Application.dll
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.pdb
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\obj\Debug\net7.0\ref\E-Commerce.Application.dll
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\bin\Debug\net7.0\E-Commerce.Application.runtimeconfig.json
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.csproj.AssemblyReference.cache
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.genruntimeconfig.cache
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\bin\Debug\net7.0\E-Commerce.Domain.dll
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\bin\Debug\net7.0\E-Commerce.Domain.pdb
+F:\ITI\FullStack\9-Visual C#\Project\E-Commerce\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.csproj.CopyComplete
